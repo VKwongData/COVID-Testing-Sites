@@ -22,7 +22,7 @@ west, northeast, southeast, northwest or southwest) to a neighborhood with a tes
 
 
 The goal is to determine in which neighborhoods 
-the city should establish test sites such that the maximum number of people is tested. 
+the city should establish test sites such that the number of people tested is maximized. 
 
 ## The Solution
 
